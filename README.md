@@ -1,4 +1,4 @@
-# <center>C-freelancing</center>
+# <center>Interest</center>
 <br><br><br>
 
 Part A (4 marks)<br>
